@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2016. David de Andrés and Juan Carlos Ruiz, DISCA - UPV, Development of apps for mobile devices.
+  -->
+
+<!--Elements on the RecyclerView will be displayed as CardViews-->
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/activity_vertical_margin"
+    app:cardBackgroundColor="@color/colorAccent"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="6dp">
+
+    <!-- Autosizable TextView adjust the font size for its content to fit -->
+    <TextView
+        android:id="@+id/tvItem"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/text_height"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:drawableStart="@android:drawable/ic_menu_upload"
+        android:gravity="center_vertical"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black"
+        app:autoSizeMaxTextSize="@dimen/text_max"
+        app:autoSizeMinTextSize="@dimen/text_min"
+        app:autoSizeStepGranularity="@dimen/text_step"
+        app:autoSizeTextType="uniform" />
+
+</androidx.cardview.widget.CardView>

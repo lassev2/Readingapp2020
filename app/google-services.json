@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681596543650",
+    "project_id": "entertainer-a717d",
+    "storage_bucket": "entertainer-a717d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681596543650:android:9da960f2c4f6c2b455edfb",
+        "android_client_info": {
+          "package_name": "com.example.readsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681596543650-o5519bt9nmbmgrisni9qobgdcjrnf9vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqBN-sGcfAtsME1q_Pe3ERS2b5UQLXGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681596543650-o5519bt9nmbmgrisni9qobgdcjrnf9vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

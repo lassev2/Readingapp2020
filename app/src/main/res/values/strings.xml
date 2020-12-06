@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Readingapp2020</string>
+    <string name="deleteOneDialogTitle">Are you sure you want to delete this?</string>
+    <string name="okDeleteDialog">OK</string>
+    <string name="cancelDeleteDialog">Cancel</string>
+    <string name="noList">you have no lists created</string>
+    <string name="name_author">Author : </string>
+    <string name="name_edition">Edition :</string>
+    <string name="name_year">Year :</string>
+    <string name="name_topic">Topic :</string>
+    <string name="name_code">Book code :</string>
+    <string name="name_summary">Summary :</string>
+    <string name="name_create">Create</string>
+    <string name="create_entry_msg">you need to name the list</string>
+    <string name="Create_list">Create new list</string>
+    <string name="movie_name">Movie name</string>
+    <string name="producer">Producer</string>
+    <string name="year">Year</string>
+    <string name="country">Country</string>
+    <string name="save">Save</string>
+
+
+
+
+
+
+</resources>

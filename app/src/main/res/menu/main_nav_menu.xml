@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/discover_nav_item"
+        android:icon="@drawable/ic_explore_black_24dp"
+        android:title="Discover"/>
+    <item android:id="@+id/lists_nav_item"
+        android:icon="@drawable/ic_library_books_black_24dp"
+        android:title="Lists"/>
+
+    <item android:id="@+id/movie_nav_item"
+        android:icon="@drawable/ic_library_books_black_24dp"
+        android:title="Movies"/>
+    <item android:id="@+id/logout_nav_item"
+        android:icon="@drawable/ic_flash_on_black_24dp"
+        android:title="LogOut"/>
+
+
+</menu>
